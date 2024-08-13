@@ -138,8 +138,8 @@ body{
        font-family: cursive;
        color:white;
        letter-spacing: .5px;
-       padding-bottom: 10px;
-
+       padding-bottom: 10px; 
+        font-size:24px;
     }
 
     .cont {
